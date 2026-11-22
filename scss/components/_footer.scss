@@ -1,0 +1,5 @@
+.site-footer {
+  background: $dark;
+  color: rgba($white, .75);
+  a { color: rgba($white, .75); &:hover { color: $secondary; } }
+}

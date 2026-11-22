@@ -1,0 +1,13 @@
+{
+  "name": "practica4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sass": "sass --load-path=node_modules --quiet-deps --silence-deprecation=import scss/main.scss css/main.css",
+    "watch": "sass --watch --load-path=node_modules --quiet-deps --silence-deprecation=import scss/main.scss css/main.css"
+  },
+  "dependencies": {
+    "bootstrap": "5.3.3",
+    "sass": "1.77.8"
+  }
+}

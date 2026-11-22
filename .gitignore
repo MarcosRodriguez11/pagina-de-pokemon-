@@ -1,0 +1,3 @@
+node_modules/
+tools/setup.log
+tools/*.log

@@ -1,0 +1,7 @@
+.hero {
+  background: linear-gradient(135deg, $primary, shade-color($primary, 55%));
+  color: $white;
+  padding: 5rem 0;
+}
+.carousel-item { background: linear-gradient(135deg, $dark, shade-color($primary, 60%)); }
+.carousel-item img { height: 420px; object-fit: contain; padding: 1rem; }
